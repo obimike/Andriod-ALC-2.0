@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoinEx</string>
+    <string name="second_activity">Base Converter</string>
+    <string name="bitcoin">BitCoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="conversion_result">Conversion Result</string>
+    <string name="please_enter_your_value_here">Please enter your value here...</string>
+    <string name="convert">Convert</string>
+</resources>
